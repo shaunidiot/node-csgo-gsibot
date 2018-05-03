@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/shaunidiot/node-csgo-csgibot#readme",
   "dependencies": {
-    "crypto": "0.0.3",
+    "crypto": "1.0.1",
     "fs": "0.0.2",
     "node-csgo-gsi": "0.0.1",
     "steam": "^1.3.0"
