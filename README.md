@@ -1,4 +1,6 @@
 # node-csgo-gsibot
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/shaunidiot/node-csgo-gsibot.svg)](https://greenkeeper.io/)
 Steambot that interacts with you (Admin) and your current CS:GO match's C4 remaining time.
 
 # Description
